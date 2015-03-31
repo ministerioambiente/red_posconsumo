@@ -1,5 +1,5 @@
 .justificado{
-	text-align:justify;
+	text-align:
 }
 .content-section{
     min-height: 100px;
@@ -688,13 +688,3 @@ display: none;
     }
 }*/
 
-
-.justificado{
-    text-align: justify;
-    margin-top: 20px;
-}
-
-.centrado {
-    text-align: center;
-    margin-top: 20px;
-}
