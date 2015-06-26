@@ -44,7 +44,7 @@
     <div id="preloader">
         <div id="status">
             <p class="center-text">
-                Cargando .. <em>Depende de la velocidad de conexión!</em>
+                Cargando ... <em>Depende de la velocidad de conexión!</em>
             </p>
         </div>
     </div>
